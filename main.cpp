@@ -14,6 +14,7 @@
 // function `resourcePath()` from ResourcePath.hpp
 //
 
+// this is for github
 #include <SFML/Graphics.hpp>
 #define n 4
 #define size n*n
